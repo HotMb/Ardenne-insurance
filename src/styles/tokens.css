@@ -44,6 +44,34 @@
   --space-6: 32px;
   --space-7: 48px;
   --space-8: 64px;
+  --space-9: 80px;
+  --size-border: 1px;
+  --size-focus: 3px;
+  --size-icon: 18px;
+  --size-mark: 30px;
+  --size-control: 50px;
+  --size-button: 52px;
+  --size-topbar: 76px;
+  --size-progress: 2px;
+  --size-hero-min: 360px;
+  --size-card-min: 250px;
+  --size-hero-desktop: 620px;
+  --size-success-mark: 48px;
+  --size-spinner: 16px;
+  --size-4: 4px;
+  --size-16: 16px;
+  --size-20: 20px;
+  --size-24: 24px;
+  --size-48: 48px;
+  --font-size-2xs: 10px;
+  --font-size-xs: 11px;
+  --font-size-sm: 12px;
+  --font-size-md: 13px;
+  --font-size-lg: 14px;
+  --font-size-xl: 18px;
+  --font-size-2xl: 20px;
+  --font-size-3xl: 32px;
+  --radius-pill: 999px;
   --content-max: 1180px;
 }
 

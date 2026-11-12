@@ -5,5 +5,5 @@ async function request(path, payload) {
   return body;
 }
 
-export const createQuote = payload => request("/v1/quotes", payload);
+export const createQuote = payload => request("/v1/quotes", { ...payload, program: "bmw-fr-ev" });
 export const issueContract = payload => request("/v1/contracts", payload);

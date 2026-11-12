@@ -1,0 +1,65 @@
+:root {
+  --color-ink: #0b0d10;
+  --color-graphite: #171a1f;
+  --color-slate: #5f6873;
+  --color-line: #dfe4e9;
+  --color-snow: #f7f8fa;
+  --color-white: #ffffff;
+  --color-cobalt: #0066b1;
+  --color-electric: #42a5f5;
+  --color-lime: #c9f000;
+  --color-danger: #b42318;
+  --color-danger-bg: #fbe9e7;
+  --color-success: #1f7a4d;
+  --color-on-dark: #f7f8fa;
+  --color-hero-start: #202833;
+  --color-hero-end: #0b0d10;
+  --color-car: #dce4ea;
+  --color-car-highlight: #f5f8fb;
+  --color-car-shadow: #aab9c8;
+  --color-car-window: #1e2a35;
+  --color-car-border: #aebbc7;
+  --color-glass-highlight: #566b7d;
+  --color-glass-stroke: #c8d4de;
+  --color-chip: #111820cc;
+  --color-road: #6e8191;
+  --color-node-bg: #111820d9;
+  --color-node-icon: #42a5f5;
+  --color-shield-bg: #c9f0001c;
+  --color-shadow: #00000059;
+  --color-orbit: #42a5f573;
+  --color-orbit-secondary: #c9f00047;
+  --color-cobalt-hover: #004f8b;
+  --color-selected-bg: #edf6fd;
+  --color-status-bg: #0b0d10b8;
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 28px;
+  --shadow-card: 0 18px 48px #0b0d101c;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --content-max: 1180px;
+}
+
+[data-theme="dark"] {
+  --color-ink: #f7f8fa;
+  --color-graphite: #0b0d10;
+  --color-slate: #acb6c2;
+  --color-line: #303741;
+  --color-snow: #171a1f;
+  --color-white: #22262c;
+  --shadow-card: 0 18px 48px #0000005c;
+  --color-danger-bg: #3a1f20;
+  --color-selected-bg: #1d3342;
+  --color-status-bg: #0000008c;
+  --color-road: #647b8b;
+  --color-node-bg: #0b0d10e6;
+  --color-node-icon: #8cc8f5;
+  --color-shield-bg: #c9f00024;
+}
